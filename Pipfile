@@ -18,6 +18,7 @@ ipywidgets = "*"
 seaborn = "*"
 metric-learn = "*"
 nltk = "*"
+nbformat = "*"
 
 [dev-packages]
 ipykernel = "*"
